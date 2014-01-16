@@ -7,7 +7,8 @@
   "private": true,
   "dependencies": {
     "union": "0.3.5",
-    "flatiron": "0.3.11"
+    "flatiron": "0.3.11",
+    "feedr": "2.7.x"
   },
   "devDependencies": {
     "api-easy": "0.3.2",
