@@ -1,0 +1,20 @@
+{
+  "name": "aggresieve",
+  "author": "Soumya Deb",
+  "description": "Cocktail of a feed aggregator & social-update tracker, punched together...",
+  "homepage": "http://code.debs.io/aggresieve",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "union": "0.3.5",
+    "flatiron": "0.3.11"
+  },
+  "devDependencies": {
+    "api-easy": "0.3.2",
+    "vows": "0.6.x"
+  },
+  "scripts": {
+    "test": "vows --spec",
+    "start": "node app.js"
+  }
+}
